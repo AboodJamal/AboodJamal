@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abdullah Jamal</h1>
 <h3 align="center">A passionate Data Scientist from Palestine</h3>
 
+
+<div align="center">
+  <img height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3J2YzFjeTRiNzFzanV4YnlsN3ZsYmVmcnc1dHRyY2kwcGJtaTV2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.webp"  />
+</div>
+
 - 📫 How to reach me **abood.jamal005@gmail.com**
 
 
@@ -80,7 +85,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AboodJamal&show_icons=true&locale=en" alt="AboodJamal" />
 </p>
 
-<div align="center">
-  <img height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3J2YzFjeTRiNzFzanV4YnlsN3ZsYmVmcnc1dHRyY2kwcGJtaTV2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.webp"  />
-</div>
 
