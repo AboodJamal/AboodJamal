@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 📫 How to reach me **abdullah.alhareem.5@gmail.com**
+- 📫 How to reach me **abood.jamal005@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,9 +18,6 @@
   </a>
   <a href="https://www.facebook.com/abdullah.alhareem.5/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Abdullah Jamal" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/AboodJamal" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="AboodJamal" height="30" width="40" />
   </a>
 </p>
 
