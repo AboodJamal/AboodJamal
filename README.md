@@ -76,6 +76,20 @@
   </a> 
 </p>
 
+<h3 align="left">Organizations and Main Projects:</h3>
+<ul>
+  <li>
+    <a href="https://github.com/Twitter-Streaming-Team13" target="_blank">
+      Twitter Streaming Project (Team 13)
+    </a>
+  </li>
+  <li>
+    <a href="https://github.com/Recommendation-System-ML" target="_blank">
+      Recommendation System (Machine Learning)
+    </a>
+  </li>
+</ul>
+
 
 <!--
 <div align="center">
