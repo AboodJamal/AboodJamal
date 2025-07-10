@@ -80,12 +80,17 @@
 <ul>
   <li>
     <a href="https://github.com/Twitter-Streaming-Team13" target="_blank">
-      Twitter Streaming Project (Team 13)
+      Twitter Streaming Project
     </a>
   </li>
   <li>
     <a href="https://github.com/Recommendation-System-ML" target="_blank">
-      Recommendation System (Machine Learning)
+      Recommendation System
+    </a>
+  </li>
+  <li>
+    <a href="https://github.com/AboodJamal/Advanced-SRGAN-Implementation" target="_blank">
+      Advanced-SRGAN-Implementation
     </a>
   </li>
 </ul>
