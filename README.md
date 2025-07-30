@@ -1,10 +1,21 @@
-<h1 align="center">Hi 👋, I'm Abdullah Jamal</h1>
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
+<h1 align="center">Hi, I'm Abdallah Jamal Alharrem</h1>
 <h3 align="center">A passionate Data Scientist from Palestine</h3>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Scientist;AI%20Engineer;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
+</p>
 
 
 <div align="center">
   <img height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3J2YzFjeTRiNzFzanV4YnlsN3ZsYmVmcnc1dHRyY2kwcGJtaTV2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.webp"  />
 </div>
+
+<!-- <div>
+  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+</div> -->
+
 
 - 📫 How to reach me **abood.jamal005@gmail.com**
 
@@ -76,6 +87,15 @@
   </a> 
 </p>
 
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=AboodJamal&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="AboodJamal"
+/></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AboodJamal&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="AboodJamal" /></p>
+<br> -->
+
+
 <h3 align="left">Organizations and Main Projects:</h3>
 <ul>
   <li>
@@ -94,6 +114,11 @@
     </a>
   </li>
 </ul>
+
+<div align=center>
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
+        <p>Loading</p>
+    </div>
 
 
 <!--
