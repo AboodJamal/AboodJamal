@@ -87,13 +87,19 @@
   </a> 
 </p>
 
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=AboodJamal&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="AboodJamal"
-/></p>
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AboodJamal&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="AboodJamal" /></p>
-<br> -->
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; background-color: #2f2f2f; padding: 20px; border-radius: 12px;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=AboodJamal&show_icons=true&locale=en&bg_color=2f2f2f&text_color=ffffff&layout=compact" 
+    alt="Top Languages" 
+    style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3); max-width: 100%; height: auto;"
+  />
+<!--   <img 
+    src="https://github-readme-stats.vercel.app/api?username=AboodJamal&show_icons=true&locale=en&bg_color=2f2f2f&text_color=ffffff&repo=convoychat" 
+    alt="GitHub Stats" 
+    style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3); max-width: 100%; height: auto;"
+  /> -->
+</div>
+
 
 
 <h3 align="left">Organizations and Main Projects:</h3>
